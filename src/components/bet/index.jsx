@@ -37,7 +37,7 @@ export default function FormBet (props){
                 }
             </div>
             <div class="input-group">
-                <Input label="Probalidade" index={index} onHandleInput={(value) => onChanceFormHandle(setProbabilidade, value, {prob: value})}/>
+                <Input label="Probabilidade" index={index} onHandleInput={(value) => onChanceFormHandle(setProbabilidade, value, {prob: value})}/>
                 <Input label="Valor da aposta" index={index} onHandleInput={(value) => onChanceFormHandle(setAposta, value, {aposta: value})} value={values?.aposta}/>
                 <Input label="Currency" isCurrency index={index} onHandleInput={(value) => setCurrency(value)} value={values?.currency}/>
                 <Input label="Lucro" isBackground isProfit index={index} onHandleInput={(value) => onChanceFormHandle(setLucro, value, {lucro: value})} value={values?.lucro}/>
