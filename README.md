@@ -24,3 +24,5 @@ Para rodar o projeto, execute ```npm start``` ou ```yarn start```
 ## Autores
 
 - [Eduardo Mendes](https://www.github.com/EduardoPH)
+- [Maciel Vinicius](https://github.com/Macielv7)
+- [Mickael Vinicius](https://www.github.com/MickaelZs)
