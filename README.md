@@ -19,7 +19,7 @@ Clone o repositório com ```https://github.com/EduardoPH/CalculadoraSurebet.git`
 
 Acesse a pasta do repositório e instale as dependências com ```npm i``` ou ```yarn install```
 
-Para rodar o projeto, execute ```npm run dev``` ou ```yarn dev```
+Para rodar o projeto, execute ```npm start``` ou ```yarn start```
 
 ## Autores
 
